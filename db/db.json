@@ -86,29 +86,8 @@
         "Cebola roxa",
         "Tomate"
       ],
-      "status": "solicitado",
+      "status": "Em produção",
       "id": 1
-    },
-    {
-      "nome": "sarada",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Cheddar",
-        "Pepino"
-      ],
-      "status": "solicitado",
-      "id": 2
-    },
-    {
-      "nome": "mitsuki",
-      "carne": "Veggie burger",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon"
-      ],
-      "status": "solicitado",
-      "id": 3
     },
     {
       "nome": "konohamaru",
@@ -118,7 +97,7 @@
         "Pepino",
         "Tomate"
       ],
-      "status": "solicitado",
+      "status": "Solicitado",
       "id": 4
     },
     {
@@ -130,7 +109,7 @@
         "Tomate",
         "Cheddar"
       ],
-      "status": "solicitado",
+      "status": "Em produção",
       "id": 5
     },
     {
@@ -142,7 +121,7 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "solicitado",
+      "status": "Finalizado",
       "id": 6
     }
   ]
