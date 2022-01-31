@@ -3,7 +3,7 @@ Utilizando Vue.js na versão 3.
 
 * Linguagem: JavaScript;
 * Framework: Vue;
-* Banco de dados: JasonServe;
+* Banco de dados: JsonServe;
 * Etapas:
    - **1:** Desenvolvento das rotas(vue router) e criando json server.Finalizando cabeçalho e rodapé;
    - **2:** Desenvolvimento do banner, formulário e inserção no banco;
